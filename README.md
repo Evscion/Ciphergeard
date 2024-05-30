@@ -1,3 +1,6 @@
+Ciphergeard
+====================
+
 Ciphergeard is a small package which implements some famous ancient ciphers in Python.
 The name '**Ciphergeard**' is made up of 2 words - '**Cipher**' and '**geard**'.
 **Geard** is the old English word for '**garden**'. So **Ciphergeard** is basically '**Cipher Garden**'.
@@ -28,6 +31,14 @@ Currently supported ciphers include:
 - **Future Enhancements**: There is a plan to add support for additional ciphers and potentially other languages in future releases.
 - **Contributing**: I would gratefully appreciate any help in improving this package! Please report any errors, bugs, performance/efficiency issues you may encounter.
 
+## Installation
+
+`pip install ciphergeard`
+
+## Documentation
+
+You can check out the detailed documentation at [Ciphergeard Documentation](https://ciphergeard.readthedocs.io/en/latest/index.html).
+
 ## Contact
 
-You can contact me on my email - ivoscev@gmail.com
+You can contact me on my email - ivoscev@gmail.com.
