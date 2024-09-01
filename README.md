@@ -24,7 +24,7 @@ Currently supported ciphers include:
 
 ## Important Notes:
 
-- This library's implementations can handle non-English characters.
+- Non-English characters (including symbols) are not encoded.
 - **Security Disclaimer**: These ciphers are for educational purposes only and should never be used for serious encryption. They are easily breakable and offer no real security for sensitive information.
 - **Future Enhancements**: There is a plan to add support for additional ciphers and potentially other languages in future releases.
 - **Contributing**: I would gratefully appreciate any help in improving this package! Please report any errors, bugs, performance/efficiency issues you may encounter.
